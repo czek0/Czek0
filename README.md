@@ -1,6 +1,6 @@
 # Czeko
 <!-- [![MasterHead](.jpg)](https://) -->
-<h1 align="center">Hello 👋, I'm Cesca!</h1>
+<h1 align="center">Hello 👋, I'm Francesca!</h1>
 <h3 align="center">A developer from Australia</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"> -->
 
