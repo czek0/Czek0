@@ -8,12 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/name" target="blank"><img src="https://img.shields.io/twitter/follow/name?logo=twitter&style=for-the-badge" alt="name" /></a> </p> -->
 
-- 🌱 I’m currently learning **Swift and Machine Learning**
-
-- 👩‍🏫 Studying a Bachelor of Computer Science at **University of Queenland**
+- 🌱 I’m currently learning **Data Science**
 
 - 👩‍ All of my projects are available at [https://github.com/Czek0?tab=repositories](https://github.com/Czek0?tab=repositories)
-
-- 💬 Ask me about **Swift and Machine Learning**
 
 - 📫 How to reach me **czekowoski@gmail.com**
